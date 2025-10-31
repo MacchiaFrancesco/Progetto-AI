@@ -23,3 +23,8 @@ Funzionalità future (idee):
 
 Obiettivo finale:
 Creare un assistente intelligente locale, sicuro e portatile, in grado di analizzare hardware, software e rete, eseguire scansioni antivirus, e ottimizzare automaticamente il sistema sfruttando la potenza della GPU — senza mai inviare dati all’esterno.
+
+altro:
+Le specifiche le deve prendere subito al primo avvio e salvarle;
+Implementare una cronologia di problemi con data e dettagli del file o del problema.
+un file di metodi per la risoluzione dei problemi per Windows e uno per Linux. traduce le operazioni che fa Windows e Linux in operazioni che può usare l' ai, e l' ai crea nuovi metodi che puo usare
