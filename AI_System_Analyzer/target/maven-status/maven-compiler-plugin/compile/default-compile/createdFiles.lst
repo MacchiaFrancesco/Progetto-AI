@@ -1,0 +1,9 @@
+hardware\GPUInfo.class
+hardware\PROCESSInfo.class
+hardware\RAMInfo.class
+hardware\CPUInfo.class
+Application\App$Chat.class
+hardware\DISKInfo.class
+hardware\NETWORKInfo.class
+Application\App.class
+utils\test.class
