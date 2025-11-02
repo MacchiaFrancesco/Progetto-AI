@@ -1,1 +1,2 @@
 mvn clean javafx:run
+(ovviamente bisogna essere nella directory del progetto progetto IA\progetto\AI_System_Analyzer)
