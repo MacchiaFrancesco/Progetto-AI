@@ -1,0 +1,7 @@
+1) più user friendly
+2) la scritta cronologia chat deve cambiare colore (opposto al colore del tema)
+3) salvare la cronologia delle risposte nella chat
+4) levare la AI alla risposta
+5) al posto di utente ci deve essere l'user corrente del computer
+6) Cambiare l'icona
+7) creare l'.exe
