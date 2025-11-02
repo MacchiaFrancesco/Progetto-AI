@@ -1,0 +1,3 @@
+GPU: 4060 Ti (memoria 16Gb condivisa e 8Gb dedicata)
+RAM: 32 GB DDR5
+CPU: I5-13400F 13th
