@@ -1,0 +1,16 @@
+network\NetworkScanner.class
+antivirus\AntivirusScanner$ScanResult.class
+ai\AIAnalyzer.class
+software\SoftwareInfo$Program.class
+antivirus\AntivirusScanner.class
+hardware\GPUInfo.class
+software\SoftwareInfo$Driver.class
+software\SoftwareInfo.class
+hardware\PROCESSInfo.class
+hardware\RAMInfo.class
+hardware\CPUInfo.class
+Application\App$Chat.class
+hardware\DISKInfo.class
+hardware\NETWORKInfo.class
+Application\App.class
+utils\test.class
