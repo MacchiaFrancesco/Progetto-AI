@@ -8,3 +8,8 @@
 8) Rifare la classe antivirus in modo tale che l'user possa scegliere che antivirus l'ai può utilizzare tra quelle disponibili sul pc
 9) Creare l'ai con llama
 (le risposte e il fatto dell'human readable si sistemerà dopo aver creato l'ai)
+
+allora visto che non sono sicuro che l'intelligenza artificiale finale possa eseguire codice esterno in java, perché serve un ambiente
+adatto, ho una mezza idea di fare un programma (exe) per ogni funzione (ora le nostre classi) e darle all'intelligenza artificiale
+in modo che possa eseguirle in base alla richiesta dell'utente:
+utente->ai->exe (ne sceglie uno in base alla richiesta)->risultato (credo json)->ai->utente
