@@ -1,0 +1,15 @@
+Inanzitutto servirà che Marco si scarichi ollama e llama3.2, i requirments.txt
+successivamente Marco dovrà mettere la gui che in teoria serve solo che modifichi Ollama_System/app.py
+Macchia dovrà fare in java in nuove classi, dovrà implementare un input handler che in base
+all'input interroga una classe che svolge la roba della sicurezza
+Io creo il pdf con tutte le istruzioni
+Io devo modificare tutta la cartella Ollama_System per adattarla al nostro lavoro
+------dopo tutto questo--------
+Marco dovrà implementare in python un controllo dell'input che faccia in modo che in base al messaggio
+l'ai analizza il file pdf predefinito (probilmente si chiamerà Funzioni_Specifiche_di_Sicurezza) oppure
+manda il messaggio a java oppure manda il messaggio tranquillamente all'ai. Ovviamente non lo farà da solo
+Macchia dovrà iniziare a implementare la comunicazione tra python e java dal lato java mentro Io e/o Marco lo faremo
+da lato python.
+------dopo tutto questo--------
+Test
+Rifiniture
