@@ -1,4 +1,4 @@
-Inanzitutto servirà che Marco si scarichi ollama e llama3.2, i requirments.txt
+Inanzitutto servirà che Marco si scarichi ollama e llama3.2, i requirments.txt in un venv (chiedi a chat)
 successivamente Marco dovrà mettere la gui che in teoria serve solo che modifichi Ollama_System/app.py
 Macchia dovrà fare in java in nuove classi, dovrà implementare un input handler che in base
 all'input interroga una classe che svolge la roba della sicurezza
